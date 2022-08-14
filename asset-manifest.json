@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/new-project-ighw/static/css/main.b71a1e81.css",
-    "main.js": "/new-project-ighw/static/js/main.1cf4421a.js",
-    "static/js/787.85fd3ccd.chunk.js": "/new-project-ighw/static/js/787.85fd3ccd.chunk.js",
-    "static/media/error_page404.png": "/new-project-ighw/static/media/error_page404.afeeb9064fae74330953.png",
-    "static/media/nocover.jpeg": "/new-project-ighw/static/media/nocover.ec4a2901bcdf53985f84.jpeg",
-    "static/media/loader.svg": "/new-project-ighw/static/media/loader.c4829f3b5af7ebe7a71fe765b6250bb9.svg",
-    "index.html": "/new-project-ighw/index.html",
-    "main.b71a1e81.css.map": "/new-project-ighw/static/css/main.b71a1e81.css.map",
-    "main.1cf4421a.js.map": "/new-project-ighw/static/js/main.1cf4421a.js.map",
-    "787.85fd3ccd.chunk.js.map": "/new-project-ighw/static/js/787.85fd3ccd.chunk.js.map"
+    "main.css": "/infinity_education/static/css/main.5ec4dac5.css",
+    "main.js": "/infinity_education/static/js/main.f15a1302.js",
+    "static/js/787.85fd3ccd.chunk.js": "/infinity_education/static/js/787.85fd3ccd.chunk.js",
+    "static/media/error_page404.png": "/infinity_education/static/media/error_page404.afeeb9064fae74330953.png",
+    "static/media/nocover.jpeg": "/infinity_education/static/media/nocover.ec4a2901bcdf53985f84.jpeg",
+    "static/media/loader.svg": "/infinity_education/static/media/loader.c4829f3b5af7ebe7a71fe765b6250bb9.svg",
+    "index.html": "/infinity_education/index.html",
+    "main.5ec4dac5.css.map": "/infinity_education/static/css/main.5ec4dac5.css.map",
+    "main.f15a1302.js.map": "/infinity_education/static/js/main.f15a1302.js.map",
+    "787.85fd3ccd.chunk.js.map": "/infinity_education/static/js/787.85fd3ccd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b71a1e81.css",
-    "static/js/main.1cf4421a.js"
+    "static/css/main.5ec4dac5.css",
+    "static/js/main.f15a1302.js"
   ]
 }
